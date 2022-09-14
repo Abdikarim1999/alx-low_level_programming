@@ -26,7 +26,7 @@ _putchar(mins_remainder + '0');
 
 minutes++;
 
-_putcher('\n');
+_putchar('\n');
 
 }
 
