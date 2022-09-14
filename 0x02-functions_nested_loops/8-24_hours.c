@@ -17,7 +17,7 @@ int mins_remainder;
 while (hours <= 23)
 {
 while (minutes <= 59)
-{	
+{
 mins_remainder = minutes % 10;
 hours_remainder = hours % 10;
 _putchar(hours / 10 + '0');
