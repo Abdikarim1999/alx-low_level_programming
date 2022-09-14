@@ -1,1 +1,1 @@
-Today we are learning about C-Function and nested loops
+Today we are learning about nested loops.
